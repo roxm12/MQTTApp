@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MQTTPR</string>
+    <string name="action_settings">Settings</string>
+</resources>
